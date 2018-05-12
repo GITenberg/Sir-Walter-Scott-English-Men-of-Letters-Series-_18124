@@ -1,0 +1,30 @@
+_repo: Sir-Walter-Scott-English-Men-of-Letters-Series-_18124
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutton, Richard Holt
+    birthdate: 1826
+    deathdate: 1897
+    gutenberg_agent_id: '7820'
+    url: http://www.gutenberg.org/2009/agents/7820
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Holt_Hutton
+description: ''
+gutenberg_issued: '2006-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Scottish -- 19th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Scott, Walter, 1771-1832'
+title: 'Sir Walter Scott
+
+  (English Men of Letters Series)'
+url: http://www.gutenberg.org/ebooks/18124
