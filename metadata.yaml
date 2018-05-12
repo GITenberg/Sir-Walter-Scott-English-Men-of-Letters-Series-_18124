@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7820
     wikipedia: http://en.wikipedia.org/wiki/Richard_Holt_Hutton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18124#Sir-Walter-Scott-English-Men-of-Letters-Series-
 gutenberg_issued: '2006-04-05'
 gutenberg_type: Text
 identifiers:
